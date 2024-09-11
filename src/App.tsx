@@ -18,7 +18,7 @@ function App() {
           setHidden(true);
         }}
       >
-        {hidden ? null : <p>고양이 클릭해서 GitHub 가보기!</p>}
+        {hidden ? null : <p>GitHub 가보기! (뭐가 엄청 있진 않아요)</p>}
         <a
           href="https://github.com/GlassyFoozle"
           target="_blank"
