@@ -7,6 +7,17 @@
   text-align: center;
 }
 
+.box {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px 0;
+  border-radius: 10px;
+  background-color: lightcyan;
+  box-shadow:
+    rgba(0, 0, 0, 0.3) 0px 19px 38px,
+    rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+
 .pfp {
   height: 10em;
   padding: 1.5em;
@@ -40,9 +51,8 @@
 }
 
 .details {
-  padding: 2em;
-  width: 60%;
-  margin: auto;
+  max-width: 300px;
+  margin: 20px auto;
   font-family: 'Nanum Gothic', sans-serif;
   font-weight: 700;
   font-size: 18px;
