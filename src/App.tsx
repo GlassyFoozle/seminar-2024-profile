@@ -31,7 +31,7 @@ function App() {
       <div className="details">
         <ul>
           <li>조선해양공학과 20학번 01년생</li>
-          <li>개발 막 시작하는 뉴비</li>
+          <li>개발 막 시작한 뉴비</li>
           <li>취미는 여행, 스포츠 관람, 게임 등</li>
           <li>MBTI는 ISFJ입니다!</li>
         </ul>
